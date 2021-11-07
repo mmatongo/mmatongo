@@ -3,6 +3,6 @@
 - I maintain [`noirlinux`](https://github.com/noirlinux)
 - I write in `Go`,`R`,`Ruby`,`Js`,`Shell` and `C`.
 - In the top 1% of Zambian developers.
-- I build fancy tech things -> [`here`](https://github.com/mulindi)
+- I build fancy tech things -> [`here`](https://github.com/mulindi).
 <br>
 🤯 Ma positories.
