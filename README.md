@@ -2,7 +2,7 @@
 <br>
 - I maintain [`noirlinux`](https://github.com/noirlinux)
 - I write in `Go`,`R`,`Ruby`,`Js`,`Ts`,`Shell` and `C`.
-- My stack includes `Rails`, `React`, `Redux`, `Next`.
+- My stack includes `Rails`, `React`, `Redux`, `Next`, `Postgresql`.
 - Check out my [`leetcode`](https://leetcode.com/mmatongo/)
 - I build fancy tech things -> [`here`](https://github.com/mulindi).
 <br>
