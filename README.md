@@ -1,4 +1,4 @@
-[![pgp](https://img.shields.io/badge/pgp-05BC8BD953405FE4-313131?style=flat&labelColor=313131&color=313131)](https://github.com/mmatongo.gpg)
+[![pgp](https://img.shields.io/badge/pgp-02E17C793B43CC70-313131?style=flat&labelColor=313131&color=313131)](https://github.com/mmatongo.gpg)
 <br>
 - I maintain [`noirlinux`](https://github.com/noirlinux)
 - I write in `Go`,`R`,`Ruby`,`Js`,`Ts`,`Shell` and `C`.
